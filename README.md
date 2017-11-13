@@ -1,5 +1,5 @@
 # Bamazon
 
-![Alt text](Screenshoot/screen1A.tiff?raw=true "Screen1")
-![Alt text](Screenshoot/screen1.tiff?raw=true "Screen2")
-![Alt text](Screenshoot/screen2.tiff?raw=true "Screen3")
+![alt text](https://patluu66.github.io/Bamazon/Screenshoot/screen1A.tiff)
+![alt text](https://patluu66.github.io/Bamazon/Screenshoot/screen1.tiff)
+![alt text](https://patluu66.github.io/Bamazon/Screenshoot/screen2.tiff)
